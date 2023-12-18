@@ -12,6 +12,8 @@ Flexible Window Sizing
 
 https://github.com/vxsqi/RayCode/assets/74667208/2610a231-31e0-44eb-ab08-fe29266a23b8
 
+https://github.com/vxsqi/RayCode/assets/74667208/2610a231-31e0-44eb-ab08-fe29266a23b8
+
 I’ve also implemented autocomplete which interprets different key types (e.g function → ()) and can be autocompleted via the tab key or clicking one of the keywords in the list. It also recognizes libraries and variables.
 
 https://github.com/vxsqi/RayCode/assets/74667208/d3c1e5a0-4ef5-4b34-9670-adbb7894a0c7
@@ -25,8 +27,6 @@ Preferences/Settings
 https://github.com/vxsqi/RayCode/assets/74667208/d82b3bde-b7a6-4426-b395-5911c3e8f4d6
 
 Independent Output Logging
-
-https://github.com/vxsqi/RayCode/assets/74667208/2610a231-31e0-44eb-ab08-fe29266a23b8
 
 https://github.com/vxsqi/RayCode/assets/74667208/0c4c9a52-18b8-47e6-9ff5-32f812a1244f
 
