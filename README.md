@@ -26,6 +26,8 @@ https://github.com/vxsqi/RayCode/assets/74667208/d82b3bde-b7a6-4426-b395-5911c3e
 
 Independent Output Logging
 
+https://github.com/vxsqi/RayCode/assets/74667208/658cbb69-3c16-4321-892a-fc65d123bf95
+
 https://github.com/vxsqi/RayCode/assets/74667208/0c4c9a52-18b8-47e6-9ff5-32f812a1244f
 
 Saving
