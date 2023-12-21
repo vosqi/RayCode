@@ -24,6 +24,7 @@ return function(self)
     
                 task.wait(plugin:GetSetting('Auto Save Delay'))
             end
+			task.wait()
         end
     end)
 end
