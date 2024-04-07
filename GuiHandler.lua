@@ -141,8 +141,8 @@ function Console.new(Widget)
 	local ExplorerMessageTemplate = Explorer.TemplateMessage
 	local ScriptButton = Explorer.ScriptButton
 	local Output = SidePane.Output
-	local LogTemplate = Output.LogTemplate
-	local OutputMessageTemplate = Output.TemplateMessage
+	local LogTemplate = Output.Content.LogTemplate
+	local OutputMessageTemplate = Output.Content.TemplateMessage
 
 	local TopBar = MainGui.TopBar
 	local TopBarLeft = TopBar.Left
@@ -889,7 +889,7 @@ end
 function Console:Log(msg, args : {})
 	msg = tostring(msg)
 
-	local ScrollingFrame = self._Gui.SidePane.Output
+	local ScrollingFrame = self._Gui.SidePane.Output.Content
 
 	if self._Logs[self._Int-1] then
 		if self._Logs[self._Int-1][1] == msg and self._Logs[self._Int-1][2].Type == args.Type then
