@@ -6,8 +6,6 @@ There’s builtin syntax-highlighting, that is fast and runs separately from the
 
 https://github.com/vxsqi/RayCode/assets/74667208/edc605e7-9f3a-4c44-8a1b-079656e83c14
 
-(boatbomber’s highlight module sample code: https://github.com/boatbomber/Highlighter)
-
 Flexible Window Sizing
 
 https://github.com/vxsqi/RayCode/assets/74667208/2610a231-31e0-44eb-ab08-fe29266a23b8
